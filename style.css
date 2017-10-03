@@ -1,0 +1,31 @@
+#menu li{
+	display:inline-block;
+	} 
+#menu {
+	text-align:right;
+	font-size:20px;
+}
+.search {
+	text-align:right;
+}
+.name {
+	font-size:20px;
+}
+.time {
+	font-size:10px;
+}
+.like {
+	background: url('http://blog.verticalresponse.com/wp-content/uploads/2015/07/like-sign.jpg') left center no-repeat;
+	background-size: 30px;
+	padding: 0 0 0 30;
+}
+.main {
+	width: 400px;
+	margin: auto;
+}
+	.img_lent{
+	max-width: 400px;
+	max-height: 250px;
+	height: auto;
+	width: auto;
+}
